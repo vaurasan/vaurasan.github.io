@@ -1,0 +1,32 @@
+body {
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    background-color: #bebebe;
+    
+}
+a:link {
+    background-color: #a0a0a0;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  a:visited {
+    background-color: #a0a0a0;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  a:active {
+    color: blue;
+    background-color: #a0a0a0;
+  }
+  a:hover {
+    color: black;
+    background-color: #a0a0a0;
+  }
+#linkit {
+    text-align: right;
+}
