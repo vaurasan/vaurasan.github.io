@@ -87,23 +87,23 @@ aside {
 }
 
 a:link {
-  background-color: #a0a0a0;
-  color: white;
+  background-color: #a0a0a0ad;
+  color: black;
   padding: 14px 25px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
 }
 a:visited {
-  background-color: #a0a0a0;
-  color: white;
+  background-color: #a0a0a02c;
+  color: black;
   padding: 14px 25px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
 }
 a:active {
-  color: blue;
+  color: white;
   background-color: #a0a0a0;
 }
 a:hover {
