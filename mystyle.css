@@ -32,14 +32,13 @@ body {
 }
 .terve {
   color: #010400;
-  font-size: 35px;
+  font-size: 30px;
   text-align: center;
-
-  text-shadow: 2px 2px 5px #564949;
+  text-shadow: 5px 5px 5px #564949;
   width: 100%;
   max-width:100%;
   height:auto;
-  padding: 40px;
+  padding: 30px;
 }
 .overlay {
     position: absolute;
@@ -80,7 +79,7 @@ aside {
 
     margin-bottom: 10px;
     text-align: center;
-    padding: 20px;
+    padding: 40px;
 
     mask-image: linear-gradient(to bottom, rgba(0, 0, 0.719), rgba(112, 112, 112, 0.26));
     mask-size: 100% 100%;
