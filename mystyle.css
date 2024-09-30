@@ -32,7 +32,7 @@ body {
 }
 .terve {
   color: #010400;
-  font-size: 42px;
+  font-size: 35px;
   text-align: center;
 
   text-shadow: 2px 2px 5px #564949;
@@ -48,9 +48,9 @@ body {
 }
 
 header {
-    font-size: 48px;
+    font-size: 55px;
     text-align: center;
-    text-decoration: overline;
+    text-decoration: underline;
     text-shadow: 2px 2px 5px #564949;
     width: 100%;
     max-width:100%;
@@ -62,7 +62,7 @@ article {
     display: block;
     margin: 0 auto;
     font-size: 20px;
-    max-width: 300px;
+    max-width: 400px;
     text-align: center;
     height:auto;
     width: 100%;
