@@ -49,11 +49,8 @@ body {
   mask-size: 100% 100%;
   mask-position: bottom;
   padding: 20px;
+  filter: grayscale(100%);
 }
-.image-container:hover .fade-photo {
-    filter: grayscale(100%);
-}
-
 header {
     font-size: 42px;
     text-align: center;
